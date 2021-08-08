@@ -1,4 +1,4 @@
- # MagiskHide Props Config
+ # SS2&SAT camera fix
 ## By NarkyAbyss
 
 ## Script Version
