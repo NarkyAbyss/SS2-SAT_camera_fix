@@ -1,0 +1,7 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+vendor.camera.aux.packagelist=com.hmdglobal.camera2,cameratest,com.fihtdc.fqc,com.tools.alt,com.siui.android.camera,com.android.camera,net.sourceforge.opencamera,com.google.android.GoogleCamera,com.google.android.GoogleCameraWide,com.google.android.GoogleCameraTele,com.sdgsystems.camera2probe
+persist.camera.HAL3.enabled=1
+persist.camera.eis.enable=1
+camera.hal1.packagelist=com.hmdglobal.camera2,cameratest,com.fihtdc.fqc,com.tools.alt,com.siui.android.camera,com.whatsapp,com.instagram.android

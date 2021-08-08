@@ -1,6 +1,7 @@
 id=SS2-SAT_camera_fix
 name=Sharp Aquos S2 camera fix
-version=v2
-versionCode=2
-description=HAL3, EIS, slowmo, highspeed, zoomfix
-minMagisk=1500
+version=v3
+versionCode=3
+author=NarkyAbyss
+description=HAL3, EIS, slowmo, highspeed, auxcam
+minMagisk=2000
